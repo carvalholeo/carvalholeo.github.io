@@ -1,43 +1,57 @@
 ---
-title: "Privacy Policy"
+title: "Política de Privacidade"
 permalink: "/privacy-policy.html"
 ---
 
-"{{site.name}}" takes your privacy seriously. To better protect your privacy we provide this privacy policy notice explaining the way your personal information is collected and used.
+"{{site.name}}" leva sua privacidade à sério. Para melhor proteger sua privacidade, eu forneço esta política de privacidade, que explica a forma que suas informações pessoais são coletadas e usadas.
 
 
-#### Collection of Routine Information
+#### Informações da rotina de coleta
 
-This website track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitor to this website. The information is tracked for routine administration and maintenance purposes.
+Este site rastreia informações básicas sobre seus visitantes. Estas informações incluem, mas não estão limitadas a, endereços de IP, detalhes do navegador, registros de data e hora e as referidas páginas. Nenhuma destas informações podem identificar pessoalmente um visitante em específico deste site. A informação é rastreada com propósitos de atividades de administração e manutenção.
 
 
 #### Cookies
 
-Where necessary, this website uses cookies to store information about a visitor’s preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+Onde se faz necessário, este site utiliza cookies para armazenar informações sobre as preferências de um visitante e histórico de requisições, para melhor servir o visitante e/ou mostrar conteúdo customizado ao visitante.
 
 
-#### Advertisement and Other Third Parties
+#### Anúncios e serviços de terceiros
 
-Advertising partners and other third parties may use cookies, scripts and/or web beacons to track visitor activities on this website in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This website has no access or control over these cookies, scripts and/or web beacons that may be used by third parties. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html).
+Parceiros de anúncios e outros serviços de terceiros podem usar cookies, scripts e/ou web beacons  para rastrear informações sobre as atividades dos visitantes nesse site, com intuito de mostrar anúncios e outras informações úteis. Tal rastreamento é feito diretamente por estes serviços de terceiros, através de seus próprios servidores, que têm suas próprias políticas de privacidade. Este site não tem acesso ou controle sobre estes cookies, scripts e/ou web beacons que podem ser utilizados por terceiros. Acesse e entenda: 
 
-
-#### Links to Third Party Websites
-
-We have included links on this website for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from our own.
-
-
-#### Security
-
-The security of your personal information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+* [como desativar o uso de cookies do Google][googleAdsLink]
+* [política de privacidade dos produtos Google][ppGoogle]
+* [política de privacidade do Disqus (sistema de comentários)][ppDisqus]
+* [sair dos anúncios do Disqus][adsDisqus]
+* [botões de compartilhamento nos posts][ppAddtoany]
 
 
-#### Changes To This Privacy Policy
+#### Links para sites de terceiros
 
-This Privacy Policy is effective and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
-
-We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
+Nós incluímos links de outros sites neste site para seu uso e referência. Nós não somos responsáveis pela política de privacidade nestes sites. Você deve estar consciente que as políticas de privacidade daqueles sites podem ser diferentes da nossa.
 
 
-#### Contact Information
+#### Segurança
 
-For any questions or concerns regarding the privacy policy, please [contact us here]({{site.baseurl}}/contact.html).
+A segurança de suas informações pessoais é importante para nós, mas lembre-se que não há métodos de transmissão pela Internet, ou método de armazenamento eletrônico, que seja 100% seguro. The security of your personal information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. Embora nós nos esforcemos para usar meios comercialmente aceitáveis para proteger suas informações pessoais, não é possível garantir a segurança absoluta destas.
+
+
+#### Mudanças nesta Política de Privacidade
+
+Esta Política de Privacidade é efetiva e permanece em vigor, exceto nos casos em que houver alterações em seus termos no futuro, que entrarão em vigor imediatamente após serem publicadas neste página.
+
+Nós nos reservamos o direito de de atualizar ou alterar esta política de privacidade a qualquer momento e é seu dever verificar esta Política de Privacidade periodicamente. Se nós fizermos quaisquer mudanças materiais nesta Política de Privacidade, nós vamos notificá-lo ou por meio e-mail, ou colocando uma notificação aparente no nosso site.
+
+
+#### Informações de contato
+
+Para quaisquer dúvidas ou preocupações a respeito desta política de privacidade, por favor, [entre em contato aqui.][contactLink].
+
+[googleAdsLink]: http://www.google.com/privacy_ads.html
+[ppGoogle]: https://policies.google.com/privacy?hl=pt-BR
+[ppDisqus]: https://help.disqus.com/en/articles/1717103-disqus-privacy-policy
+[adsDisqus]: https://disqus.com/data-sharing-settings/
+[ppAddtoany]: https://www.addtoany.com/privacy
+
+[contactLink]: {{ site.contact }}
