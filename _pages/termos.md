@@ -15,15 +15,14 @@ Sem mais delongas, aqui estão os links para acesso.
 * [Termos de uso][termos]
 * [Política de privacidade][privacidade]
 * [Política de comentários][comentarios]
-* [Código de ética][etica]
-* [Conduta nas redes sociais][redes-sociais]
+* [Código de ética e conduta nas redes sociais][etica]
+
 
 
 
 
 [contact]: {{site.contact}}
-[termos]: {{link}}/tos.html
+[termos]: https://github.com/carvalholeo/carvalholeo.github.io/blob/master/LICENSE
 [privacidade]: {{link}}/privacy-policy.html
 [comentarios]: {{link}}/comentarios.html
 [etica]: {{link}}/etica.html
-[redes-sociais]: {{link}}/redes-sociais.html
