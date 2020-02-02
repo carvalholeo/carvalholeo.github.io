@@ -4,7 +4,7 @@ title:  "Comunidades: O que é, como vivem e do que se alimentam?"
 categories: [ comunidades, séries ]
 image: assets/images/cooperacao-uniao-maos.jpg
 author: leo
-tags: [ featured, começando ]
+tags: [ featured, comunidades, programadoresbr, cooperação ]
 ---
 Quando se pensa em comunidades, algumas imagens podem vir à mente. Pode ser a imagem de uma favela (neste contexto, comunidade é a favela gourmetizada). Pode ser uma comunidade de fungos e bactérias. Mas pode ser, também, uma comunidade técnica, foco deste post (YEAHHHH).
 
