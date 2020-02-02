@@ -6,7 +6,7 @@ favicon: 'assets/images/favicon.ico'
 baseurl: ''
 disqus: 'leocarvalho'
 email: 'leonardo.cscarvalho@outlook.com.br'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: 'https://dev.us4.list-manage.com/subscribe/post?u=fb89d629ee9c814bb1e5e7c4e&amp;id=dc4483f2be'
 contact: 'https://leocarvalho.dev/#contact-section'
 
 include: ["_pages"]
