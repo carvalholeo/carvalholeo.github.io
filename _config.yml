@@ -21,10 +21,10 @@ plugins:
   
 authors:
     leo:
-      name:           Léo
+      name:           Leonardo
       site:           https://leocarvalho.dev
-      avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
+      avatar:         /assets/images/perfil.jpg
+      bio:            "Léo é desenvolvedor PHP e C#, tem 24 anos, mora no Guarujá e não vai à praia todo dia (apesar de acreditar que apenas ver o mar já é suficiente para fazê-lo relaxar)."
       email:          leonardo.cscarvalho@outlook.com.br
       twitter:        https://leocarvalho.dev/twitter
 
