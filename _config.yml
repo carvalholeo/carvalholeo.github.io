@@ -27,22 +27,6 @@ authors:
       bio:            "Léo é desenvolvedor PHP e C#, tem 24 anos, mora no Guarujá e não vai à praia todo dia (apesar de acreditar que apenas ver o mar já é suficiente para fazê-lo relaxar)."
       email:          leonardo.cscarvalho@outlook.com.br
       twitter:        https://leocarvalho.dev/twitter
-
-    jane:
-      name:           Jane
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
-    
-    sal:
-      name:           Sal
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
  
 # Defaults
 defaults:
