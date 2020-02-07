@@ -4,7 +4,7 @@ title:  "Recomeçando (de novo) o blog"
 categories: [ blog, início ]
 image: assets/images/start.jpg
 author: leo
-tags: [ sticky, featured, começando]
+tags: [ featured, começando]
 ---
 Depois de muito tempo sem escrever, aí vamos nós novamente. Por alguns anos, mantive (na verdade, ele existe até hoje) um blog com conteúdo religioso, onde, de vez em quando, eu postava conteúdo técnico. Por alguma razão, que não lembro qual agora, apaguei quase tudo.
 

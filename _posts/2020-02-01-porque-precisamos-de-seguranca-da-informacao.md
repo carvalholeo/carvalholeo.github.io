@@ -4,7 +4,7 @@ title:  "Você tem certeza que está seguro na internet?"
 categories: [ segurança, séries ]
 image: assets/images/cadeados.jpg
 author: leo
-tags: [ featured, dicas, autenticação, dois fatores, lgpd, senhas, vazamentos ]
+tags: [ sticky, featured, dicas, autenticação, dois fatores, lgpd, senhas, vazamentos ]
 ---
 Já parou pra pensar na quantidade de apps e sites em que você é cadastrado? Em quantos lugares você preenche um formulário para acessar as informações? Já pensou em como deve ser a estrutura desse banco de dados e se ele está criptografado? E se, de repente, esse cadastro fosse vazado e suas informações expostas?
 
