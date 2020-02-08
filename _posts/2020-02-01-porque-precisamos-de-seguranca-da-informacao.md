@@ -8,7 +8,7 @@ tags: [ sticky, featured, dicas, autenticação, dois fatores, lgpd, senhas, vaz
 ---
 Já parou pra pensar na quantidade de apps e sites em que você é cadastrado? Em quantos lugares você preenche um formulário para acessar as informações? Já pensou em como deve ser a estrutura desse banco de dados e se ele está criptografado? E se, de repente, esse cadastro fosse vazado e suas informações expostas?
 
-Pois saiba que essa é uma coisa extremamente corriqueira. É mais fácil você ter suas informações vazadas do que ganhar na loteria ou um raio te acertar. Isso acontece porquê muitas empresas não levam a sério segurança da informação, o que leva a ter seus dados e informações pessoais sob constante risco. E com a [LGPD][lgpd] prestes a entrar em vigor, é mais do que necessário que você pense em seus projetos com [segurança e privacidade desde o começo][privacy-by-design], como *feature* padrão.
+Pois saiba que essa é uma coisa extremamente corriqueira. É mais fácil você ter suas informações vazadas do que ganhar na loteria ou um raio te acertar. Isso acontece porque muitas empresas não levam a sério segurança da informação, o que leva a ter seus dados e informações pessoais sob constante risco. E com a [LGPD][lgpd] prestes a entrar em vigor, é mais do que necessário que você pense em seus projetos com [segurança e privacidade desde o começo][privacy-by-design], como *feature* padrão.
 
 Neste artigo, no foco não é no desenvolvimento de software, mas sim nos SEUS dados e como você cuida deles (se é que cuida).
 
