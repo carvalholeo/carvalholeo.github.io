@@ -1,3 +1,5 @@
 User-agent: *
 Disallow: /assets
 Disalow: /page2
+
+Sitemap: https://blog.leocarvalho.dev/sitemap.xml
