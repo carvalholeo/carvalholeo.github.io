@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-ads
 title:  "Você tem certeza que está seguro na internet?"
 categories: [ segurança, séries ]
 image: assets/images/cadeados.jpg

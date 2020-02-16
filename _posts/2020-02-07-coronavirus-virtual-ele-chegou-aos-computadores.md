@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-ads
 title:  "Vírus humano e virtual: o Coronavírus virtual está entre nós!"
 categories: [ segurança, noticias ]
 image: assets/images/coronavirus.webp
