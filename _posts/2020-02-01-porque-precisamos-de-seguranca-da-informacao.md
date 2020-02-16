@@ -6,7 +6,7 @@ image: assets/images/cadeados.jpg
 author: leo
 tags: [ sticky, featured, dicas, autenticação, dois fatores, lgpd, senhas, vazamentos ]
 ---
-Já parou pra pensar na quantidade de apps e sites em que você é cadastrado? Em quantos lugares você preenche um formulário para acessar as informações? Já pensou em como deve ser a estrutura desse banco de dados e se ele está criptografado? E se, de repente, esse cadastro fosse vazado e suas informações expostas?
+Já parou para pensar na quantidade de apps e sites em que você é cadastrado? Em quantos lugares você preenche um formulário para acessar as informações? Já pensou em como deve ser a estrutura desse banco de dados e se ele está criptografado? E se, de repente, esse cadastro fosse vazado e suas informações expostas?
 
 Pois saiba que essa é uma coisa extremamente corriqueira. É mais fácil você ter suas informações vazadas do que ganhar na loteria ou um raio te acertar. Isso acontece porque muitas empresas não levam a sério segurança da informação, o que leva a ter seus dados e informações pessoais sob constante risco. E com a [LGPD][lgpd] prestes a entrar em vigor, é mais do que necessário que você pense em seus projetos com [segurança e privacidade desde o começo][privacy-by-design], como *feature* padrão.
 
@@ -18,7 +18,7 @@ Já contou quantos sites ou apps você tem cadastro? Eu já. Somente de sites e 
 
 Sejamos francos: todos nós já deixamos senhas iguais. Não conheço ninguém que tenha capacidade plena de administrar tanta senha diferente. Pelo menos, quando eram senhas iguais para todos os sites, não faziam parte da [lista das 100 senhas mais fracas do mundo][senhas-fracas].
 
-Preocupado com isso, passei a utilizar um gerenciador de senhas, o [LastPass][lastpass]. Com ele, eu tenho uma senha diferente para cada um dos sites em que estou cadastrado. Quando aparece a tela de login dele, o app faz o preenchimento automático. Dá pra colocar segurança adicional em senhas específicas (como senhas de banco e e-mails principais de recuperação). Na web, tem extensões para diversos navegadores, que permite o mesmo comportamento. E quando você precisa de uma senha nova, ele pode criar uma nova automagicamente.
+Preocupado com isso, passei a utilizar um gerenciador de senhas, o [LastPass][lastpass]. Com ele, eu tenho uma senha diferente para cada um dos sites em que estou cadastrado. Quando aparece a tela de login dele, o app faz o preenchimento automático. Dá para colocar segurança adicional em senhas específicas (como senhas de banco e e-mails principais de recuperação). Na web, tem extensões para diversos navegadores, que permite o mesmo comportamento. E quando você precisa de uma senha nova, ele pode criar uma nova automagicamente.
 
 Desde o Android 8, há uma [opção nativa para gerar e gerenciar as senhas][senhas-android]. Além desses dois, há outros gerenciadores de senha, que são multiplataforma:
 
@@ -69,7 +69,7 @@ Conclusão: EVITE USAR ESSE MÉTODO, SEMPRE QUE POSSÍVEL. Ponto final.
 
 Nesta técnica, você escolhe algumas perguntas de segurança e em seguida preenche as respostas. Evite isso, também, porquê as respostas podem ser utilizadas como recurso para Engenharia Social (e posteriormente usados para comprar produtos ou serviços em outros locais).
 
-Se for absolutamente inviável usar 2FA sem Perguntas de Segurança, como no caso da Apple, no lugar das respostas, NÃO COLOQUE AS RESPOSTAS VERDADEIRAS. Use uma string aleatória (pode ser uma gerada pelo gerenciador de senhas). Assim, dá pra evitar problemas maiores no futuro.
+Se for absolutamente inviável usar 2FA sem Perguntas de Segurança, como no caso da Apple, no lugar das respostas, NÃO COLOQUE AS RESPOSTAS VERDADEIRAS. Use uma string aleatória (pode ser uma gerada pelo gerenciador de senhas). Assim, dá para evitar problemas maiores no futuro.
 
 
 #### Cartão de segurança/Grade de dados
@@ -92,7 +92,7 @@ Na nossa vida digital, você pode usar [2FA de senha adicional no WhatsApp][senh
 
 Esse é o meu favorito. Por meio dele, você cadastra sua conta em um app (lista abaixo), que gera um código OTP (One-time padding), que dura apenas 30 segundos. Passado esse tempo, é gerado um novo código, completamente diferente do anterior.
 
-Na configuração dessa opção no serviço, como Facebook, Gmail, Amazon, Registro.br e outros, você escaneia um QR Code e digita o código inicial no serviço, pra sincronizar. Depois disso, seu smartphone não precisa estar conectado à internet para gerar o código, isso é feito offline!
+Na configuração dessa opção no serviço, como Facebook, Gmail, Amazon, Registro.br e outros, você escaneia um QR Code e digita o código inicial no serviço, para sincronizar. Depois disso, seu smartphone não precisa estar conectado à internet para gerar o código, isso é feito offline!
 
 O cuidado que você precisa ter aqui é: CONFIGURE UM FALLBACK! Isso garante que, se você perder acesso ao smartphone, ainda possa entrar no serviço sem maiores dificuldades.
 

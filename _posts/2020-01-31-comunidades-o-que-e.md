@@ -10,7 +10,7 @@ Quando se pensa em comunidades, algumas imagens podem vir à mente. Pode ser a i
 
 Uma comunidade nada mais é que um ajuntamento de pessoas (ahhh vá!), que tem algo em comum e que podem cooperar para um propósito específico. Este propósito pode ser educação, vagas, desenvolvimento de apps e sites, discussão sobre tecnologia, segurança e tantos outros temas, próprios da área de TI. Podem ser criadas online ou offline, apesar de ser mais comum da primeira forma, através de plataformas como Meetup, EventBrite, Facebook, LinkedIn ou WhatsApp.
 
-É importante entender que uma comunidade, pra existir de verdade, precisa ser orgânica, ou seja, não deve ter um crescimento forçado pelos líderes, donos ou administradores. Ela deve ser capaz de crescer de forma autonônoma, tal qual uma comunidade de.... fungos e bactérias!
+É importante entender que uma comunidade, para existir de verdade, precisa ser orgânica, ou seja, não deve ter um crescimento forçado pelos líderes, donos ou administradores. Ela deve ser capaz de crescer de forma autonônoma, tal qual uma comunidade de.... fungos e bactérias!
 
 Uma comunidade deve ter regras bem claras e definidas, que precisam ser seguidas por todos, inclusive administradores. Por quê? Imagine que alguém coloque um conteúdo pornográfico, ofensivo ou pirata. Pelo bom senso, ninguém deveria fazer isso (principalmente para o primeiro caso, se sua comunidade não tiver essa temática e tiver menores de idade, e do último caso, já que pode render processos judiciais). Mas, lembre-se: estamos tratando com seres humanos, e eles podem alegar que não foram avisados de que isso não era permitido. Isso denota uma falta de administração da comunidade, o que pode levá-la à sua morte.
 
