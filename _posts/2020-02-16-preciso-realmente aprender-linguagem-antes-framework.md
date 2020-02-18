@@ -2,7 +2,7 @@
 layout: post-ads
 title:  "Eu realmente preciso aprender a linguagem antes do framework?"
 categories: [ 'Por onde começar?' ]
-image: assets/images/planta.png
+image: assets/images/planta.webp
 author: leo
 tags: [ programacao, dicas, iniciantes, linguagens, frameworks, featured, sticky]
 ---

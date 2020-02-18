@@ -2,7 +2,7 @@
 layout: post-ads
 title:  "Comunidades: O que é, como vivem e do que se alimentam?"
 categories: [ comunidades, séries ]
-image: assets/images/cooperacao-uniao-maos.jpg
+image: assets/images/cooperacao-uniao-maos.webp
 author: leo
 tags: [ featured, comunidades, programadoresbr, cooperação ]
 ---

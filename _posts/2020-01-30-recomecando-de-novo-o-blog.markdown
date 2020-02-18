@@ -2,7 +2,7 @@
 layout: post
 title:  "Recomeçando (de novo) o blog"
 categories: [ blog, início ]
-image: assets/images/start.jpg
+image: assets/images/start.webp
 author: leo
 tags: [ featured, começando]
 ---
