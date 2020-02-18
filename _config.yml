@@ -1,7 +1,7 @@
 # Site
 name: 'Léo Carvalho'
 description: 'Léo Carvalho é desenvolvedor PHP e C#, com experiência acadêmica nessas linguagens e profissional em outras áreas.'
-logo: 'assets/images/logo.png'
+icon: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
 disqus: 'leocarvalho'
@@ -23,7 +23,7 @@ authors:
     leo:
       name:           Leonardo
       site:           https://leocarvalho.dev
-      avatar:         /assets/images/perfil.jpg
+      avatar:         /assets/images/perfil.webp
       bio:            "Léo é desenvolvedor PHP e C#, tem 24 anos, mora no Guarujá e não vai à praia todo dia (apesar de acreditar que apenas ver o mar já é suficiente para fazê-lo relaxar)."
       email:          leonardo.cscarvalho@outlook.com.br
       twitter:        https://leocarvalho.dev/twitter
@@ -35,9 +35,9 @@ defaults:
   - scope:
       path: "_posts"
     values:
-      layout: post
+      layout: post-ads
       author: leo
-      avatar: /assets/images/avatar1.jpg
+      avatar: /assets/images/perfil.webp
       
   # all pages
   - scope:
