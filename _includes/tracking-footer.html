@@ -7,7 +7,16 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-139872605-2');
+  gtag('config', 'UA-139872605-2', {
+      'link_attribution': {
+          'cookie_name': '_blog',
+          'cookie_domain': 'blog.leocarvalho.dev',
+          'cookie_expires': 0,
+          'levels': 18
+      },
+      'anonymize_ip': true
+    }
+  );
 </script>
 
 <script data-ad-client="ca-pub-1577931231143329" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
