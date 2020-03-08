@@ -1,7 +1,7 @@
 # Site
 name: 'Léo Carvalho'
 description: 'Léo Carvalho é desenvolvedor PHP e C#, com experiência acadêmica nessas linguagens e profissional em outras áreas.'
-icon: 'assets/images/logo.png'
+icon: 'assets/images/icon.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
 disqus: 'leocarvalho'
