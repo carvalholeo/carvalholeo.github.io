@@ -1,54 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    {% include tracking-header.html %}
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>{{page.title}} | {{site.name}}</title>
 
-    {% seo %}
-
-    <link rel="shortcut icon" type="image/x-icon" href="{{site.baseurl}}/{{site.favicon}}">
-    <link rel="apple-touch-icon" href="{{site.baseurl}}/{{site.icon}}">
-    <link rel="apple-touch-icon-precomposed" href="{{site.baseurl}}/{{site.icon}}">
-    <meta name="msapplication-TileImage" href="{{site.baseurl}}/{{site.icon}}">
-
-    <!-- Font Awesome Icons -->
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous" media="none" onload="if(media!='all')media='all'">
-
-    <!-- Google Fonts-->
-    <link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700&display=swap" rel="stylesheet" media="none" onload="if(media!='all')media='all'">
-
-    <!-- Bootstrap Modified -->
-    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/main.css">
-
-    <!-- Theme Stylesheet -->
-    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/theme.css">
-
-    <!-- Jquery on header to make sure everything works, the rest  of the scripts in footer for fast loading -->
-    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-
-</head>
+{% include tracking-header.html %}
 
 <body class="{% if page.url == "/" %} homefirstpage {% endif %}">
 
     <!-- Navbar -->
     <nav id="MagicMenu" class="topnav navbar navbar-expand-lg navbar-light bg-white fixed-top">
-    <div class="container">
-        <a class="navbar-brand" href="{{ link }}/index.html"><strong>{{site.name}}</strong></a>
-        <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="navbar-collapse collapse" id="navbarColor02">
-            <ul class="navbar-nav mr-auto d-flex align-items-center">
-               {% include menu-header.html %}
-            </ul>
-            <ul class="navbar-nav ml-auto d-flex align-items-center">
-                {% include search-lunr.html %}
-            </ul>
+        <div class="container">
+            <a class="navbar-brand" href="{{ link }}/index.html"><strong>{{site.name}}</strong></a>
+            <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarColor02"
+                aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="navbar-collapse collapse" id="navbarColor02">
+                <ul class="navbar-nav mr-auto d-flex align-items-center">
+                    {% include menu-header.html %}
+                </ul>
+                <ul class="navbar-nav ml-auto d-flex align-items-center">
+                    {% include search-lunr.html %}
+                </ul>
+            </div>
         </div>
-    </div>
     </nav>
 
     <!-- Search Results -->
@@ -61,34 +34,31 @@
         {{ content }}
     </main>
 
-
-    <!-- Scripts: popper, bootstrap, theme, lunr -->
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
-
-    <script src="{% link /assets/js/theme.js %}"></script>
-
-
     <!-- Footer -->
     <footer class="bg-white border-top p-3 text-muted small">
         <div class="container">
-        <div class="row align-items-center justify-content-between">
-            <div>
-                <span class="navbar-brand mr-2 mb-0"><strong>{{site.name}}</strong></span>
-                <span>Copyright © <script>document.write(new Date().getFullYear())</script>.</span>
+            <div class="row align-items-center justify-content-between">
+                <div>
+                    <span class="navbar-brand mr-2 mb-0"><strong>{{site.name}}</strong></span>
+                    <span>Copyright ©
+                        <script>document.write(new Date().getFullYear())</script>.</span>
 
-                <!--  Github Repo Star Btn-->
-                <a class="text-dark ml-1" target="_blank" href="https://github.com/wowthemesnet/mundana-theme-jekyll" rel="noreferrer"><i class="fab fa-github"></i> Fork no Github</a>
+                    <!--  Github Repo Star Btn-->
+                    <a class="text-dark ml-1" target="_blank"
+                        href="https://github.com/wowthemesnet/mundana-theme-jekyll" rel="noopener noreferrer"><i
+                            class="fab fa-github"></i> Fork no Github</a>
 
+                </div>
+                <div>
+                    <a href="{{link}}/termos.html">Termos de uso e Política de Privacidade</a>
+                </div>
+                <div>
+                    Feito com <a target="_blank" class="text-dark font-weight-bold"
+                        href="https://www.wowthemes.net/mundana-jekyll-theme/" rel="noopener noreferrer"> Mundana Jekyll
+                        Theme</a>, por <a class="text-dark" target="_blank" href="https://www.wowthemes.net"
+                        rel="noopener noreferrer">WowThemes</a>.
+                </div>
             </div>
-            <div>
-                <a href="{{link}}/termos.html">Termos de uso e Política de Privacidade</a>
-            </div>
-            <div>
-                Feito com <a target="_blank" class="text-dark font-weight-bold" href="https://www.wowthemes.net/mundana-jekyll-theme/" rel="noreferrer"> Mundana Jekyll Theme</a>, por <a class="text-dark" target="_blank" href="https://www.wowthemes.net" rel="noreferrer">WowThemes</a>.
-            </div>
-        </div>
         </div>
     </footer>
 
