@@ -5,7 +5,7 @@ icon: 'assets/images/icon.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
 disqus: 'leocarvalho'
-email: 'leonardo.cscarvalho@outlook.com.br'
+email: 'leo@leocarvalho.dev'
 mailchimp-list: 'https://dev.us4.list-manage.com/subscribe/post?u=fb89d629ee9c814bb1e5e7c4e&amp;id=dc4483f2be'
 contact: 'https://leocarvalho.dev/#contact-section'
 
@@ -13,12 +13,12 @@ include: ["_pages"]
 permalink: /:title/
 
 # Plugins
-plugins: 
+plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
-  
+
 authors:
     leo:
       name:           Leonardo
@@ -27,7 +27,7 @@ authors:
       bio:            "Léo é desenvolvedor PHP e C#, tem 24 anos, mora no Guarujá e não vai à praia todo dia (apesar de acreditar que apenas ver o mar já é suficiente para fazê-lo relaxar)."
       email:          leonardo.cscarvalho@outlook.com.br
       twitter:        https://leocarvalho.dev/twitter
- 
+
 # Defaults
 defaults:
 
@@ -38,20 +38,19 @@ defaults:
       layout: post-ads
       author: leo
       avatar: /assets/images/perfil.webp
-      
+
   # all pages
   - scope:
       path: "_pages"
     values:
       layout: page
-      
+
 # Syntax
 markdown: kramdown
 highlighter: rouge
 
 # Paginate
 paginate: 10
-
 
 
 # Exclude metadata and development time dependencies (like Grunt plugins)

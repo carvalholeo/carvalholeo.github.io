@@ -1,7 +1,7 @@
 ---
 layout: post-ads
 title:  "ORM: melhorando o jeito que você consulta seu banco de dados"
-categories: [ 'Por onde começar?' ]
+categories: [ 'Por onde começar' ]
 image: assets/images/mapa.webp
 author: leo
 tags: [ programacao, dicas, iniciantes, linguagens, frameworks, featured, orm ]

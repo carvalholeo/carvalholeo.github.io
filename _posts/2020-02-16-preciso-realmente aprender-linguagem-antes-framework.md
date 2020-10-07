@@ -1,7 +1,7 @@
 ---
 layout: post-ads
 title:  "Eu realmente preciso aprender a linguagem antes do framework?"
-categories: [ 'Por onde começar?' ]
+categories: [ 'Por onde começar' ]
 image: assets/images/planta.webp
 author: leo
 tags: [ programacao, dicas, iniciantes, linguagens, frameworks, featured]
@@ -28,7 +28,7 @@ Todos nós sempre começamos com o [paradigma estruturado][estruturado], com var
 Você consegue imaginar uma casa sem essas colunas? Eu também não. Certamente caíriam nos dias de chuva e vento forte.
 
 ---
-Agora pense nas ligações de água e esgoto, eletricidade e comunicações dessa casa. Não tenho dúvidas que a empresa fornecedora desses serviços não sabe como é feita a ligação interna, apenas entrega o serviço próximo ao seu portão e dali para dentro, é SUA responsabilidade fazer chegar nos lugares desejados. 
+Agora pense nas ligações de água e esgoto, eletricidade e comunicações dessa casa. Não tenho dúvidas que a empresa fornecedora desses serviços não sabe como é feita a ligação interna, apenas entrega o serviço próximo ao seu portão e dali para dentro, é SUA responsabilidade fazer chegar nos lugares desejados.
 
 Posso dizer que a comunicação com o banco de dados também é assim. O DB não deve saber como mostrar os dados armazenados na tela pro usuário, isso é responsabilidade sua. Não importa o quanto você queira, o DB não precisa saber disso. É como se a companhia de água olhasse pra torneira da sua casa e dissesse: "essa torneira não está nos nossos padrões".
 

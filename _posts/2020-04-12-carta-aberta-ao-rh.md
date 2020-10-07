@@ -4,7 +4,7 @@ title:  "Carta aberta ao RH "
 categories: [ Contratação, Pessoas, RH ]
 image: assets/images/rh.webp
 author: leo
-tags: [ sticky, featured, estatisticas, rh, contratacao, pessoas, emprego ]
+tags: [ featured, estatisticas, rh, contratacao, pessoas, emprego ]
 ---
 Depois de muito tempo estando desempregado, hoje posso dizer que minha hora chegou e fui recolocado. Confesso, é uma missão ingrata, difícil, quase insuportável, e por que não dizer insatisfatória? É, mais do que nunca, uma luta com a sua autoestima, seus valores e princípios, de saber até onde você vai, se molda ao meio e muda para conquistar a tão sonhada vaga.
 
@@ -12,7 +12,7 @@ Não digo que é fácil, pois não é, nem de longe. Aliás, papo coach nunca fo
 
 Nos últimos 19 meses, apliquei para diversas vagas de emprego na área de TI, sendo a maioria esmagadora para programação e desenvolvimento de software. Teoricamente, essa é uma área que não há falta de emprego, e qualquer pessoa pode entrar facilmente, ainda mais se for considerado o [déficit de 25 mil profissionais na área em 2019][deficit]. Pena que é apenas teoria e sonho, já que a realidade não se mostra factível.
 
-Após um longo período trabalhando como instrutor de treinamento na [Atento][atento] (e, portanto, subordinando à diretoria de RH), havia entendido que chegado o momento de alçar novos voos e comecei a me candidatar a vagas na área de TI. Grande parte das candidaturas foram direcionadas para empresas GPTW, das quais se espera que tenham processos de negócio e estruturas adequadas para processos seletivos adequados. Não consegui realizar essa mudança de carreira e, por uma decisão de negócio, optou-se pelo meu desligamento em julho/2019. 
+Após um longo período trabalhando como instrutor de treinamento na [Atento][atento] (e, portanto, subordinando à diretoria de RH), havia entendido que chegado o momento de alçar novos voos e comecei a me candidatar a vagas na área de TI. Grande parte das candidaturas foram direcionadas para empresas GPTW, das quais se espera que tenham processos de negócio e estruturas adequadas para processos seletivos adequados. Não consegui realizar essa mudança de carreira e, por uma decisão de negócio, optou-se pelo meu desligamento em julho/2019.
 
 De onde eu tirei esse pensamento? Da minha estadia na Atento, que à época em que lá estive, foi certificada diversas vezes como empresa [GPTW][gptw]. Não que não haja espaço para melhorias, todas as empresas têm. Mas uma coisa posso afirmar categoricamente: a Atento possui processos bem definidos e que funcionam, pelo menos em se tratando de processos seletivos.
 

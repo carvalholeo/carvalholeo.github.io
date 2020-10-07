@@ -17,7 +17,7 @@ A [Karspesky][karspesky], empresa de cibersegurança e produtora de um dos anti-
 
 As vítimas, geralmente usuários que estão com medos da infecção pelo COVID-19, recebem links e anexos por e-mails, com ataques já conhecidos, como phishing, engenharia social e alguns elementos de Fake News (com palavras-chave, como "exclusivo", "repasse agora", "estão querendo tirar do ar").
 
-Os arquivos recebidos contém vírus já conhecidos pelo mercado, que estão junto de documentos, imagens, vídeos, planilhas e e-mails (não como anexos, mas como a mensagem em si). Entre os vírus identificados, a Karspesky notificou a existência dos seguintes: 
+Os arquivos recebidos contém vírus já conhecidos pelo mercado, que estão junto de documentos, imagens, vídeos, planilhas e e-mails (não como anexos, mas como a mensagem em si). Entre os vírus identificados, a Karspesky notificou a existência dos seguintes:
  * Worm.VBS.Dinihou.r
  * Worm.Python.Agent.c
  * UDS:DangerousObject.Multi.Generic

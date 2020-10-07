@@ -12,7 +12,7 @@ Em meados do ano passado, decidi que estava na hora de voltar a escrever, pois a
 
 Sendo assim, este blog (dentro do domínio leocarvalho.dev) tem como propósito compartilhar conhecimento para os mais variados perfis de desenvolvedores, focando, principalmente, nos júniors da nossa área.
 
-Com frequência de 1 vez por semana, vou lançar aqui posts sobre: 
+Com frequência de 1 vez por semana, vou lançar aqui posts sobre:
 
  * Comunidades
  * Open Source
