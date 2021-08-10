@@ -67,7 +67,6 @@ GEM
     terminal-table (2.0.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     unicode-display_width (1.7.0)
-    wdm (0.1.1)
 
 PLATFORMS
   ruby
@@ -79,7 +78,6 @@ DEPENDENCIES
   jekyll-seo-tag
   jekyll-sitemap
   rouge
-  wdm (>= 0.1.0)
 
 RUBY VERSION
    ruby 2.6.6p146
